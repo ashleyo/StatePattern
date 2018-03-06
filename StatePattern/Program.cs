@@ -62,7 +62,7 @@ namespace StatePattern
             interest = 0.0;
             lowerLimit = -100.0;
             upperLimit = 0.0;
-            serviceFee = 15.00;
+            serviceFee = 10.00;
         }
 
         public override void Deposit(double amount)
